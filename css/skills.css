@@ -1,0 +1,32 @@
+.skills {
+    padding: 1rem 9rem;
+}
+
+.skills__title {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.skills__line {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.skills__box {
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    height: 10rem;
+    width: calc(100%/6 - 1rem);
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.skills__box ul {
+    padding-left: 1rem;
+}
+
+.skills__img {
+    margin-bottom: .5rem;
+}

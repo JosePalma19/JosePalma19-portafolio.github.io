@@ -1,0 +1,17 @@
+.about {
+    background: #EAF2FD;
+    padding: 0 9rem;
+}
+
+.about__container {
+    padding: 2.5rem 0;
+    width: 65%;
+}
+
+.about__title {
+    font-size: 2rem;
+}
+
+.about__paragraph {
+    font-size: 1.1rem;
+}

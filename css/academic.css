@@ -1,0 +1,34 @@
+.academic {
+    padding: 1rem 9rem;
+    background: #EAF2FD;
+}
+
+.academic__title {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.academic__courses {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.academic__courses__box {
+    height: 20rem;
+    width: calc(100%/4);
+}
+
+.academic__courses__item__img.unah {
+    background: #ffffff;
+    height: 10rem;
+    padding-bottom: 1rem;
+}
+
+.academic__courses__item__img.alura {
+    background: #ffffff;
+    height: 10rem;
+    padding-top: 1rem;
+    padding-left: 3rem;
+}
